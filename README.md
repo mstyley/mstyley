@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a young 15y/o german coder
+- 👋 Hi, I’m a young 16y/o german coder
 - 👀 I’m interested in application development and IT security
 - 📚 I’m currently learning python
 - ⌨️ Coding knowledge: C#, Python, HTML, CSS 
